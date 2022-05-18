@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rR//k+D5YFX5oLaFpx6Td7uHXOh+sRQwnkci7hlqlgM=",
+  "Source": "WepAppLinux",
+  "BasePath": "_content/WepAppLinux",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
